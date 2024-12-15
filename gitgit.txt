@@ -1,3 +1,2 @@
 this is a learning process for git
-I wonder if i commit before
-but what ever, lets do it again
+weil, lets do a exp again
